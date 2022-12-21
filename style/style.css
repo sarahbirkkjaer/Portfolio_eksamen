@@ -344,7 +344,7 @@ button{
 .sprite-animation{
     height: 300px;
     width: 300px;
-    background: url(/img/sprite.png);
+    background: url(../img/sprite.png);
     background-size: 4800px 300px;
     animation-name: chemistry;
     animation-duration: 3s;
